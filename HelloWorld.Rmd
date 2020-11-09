@@ -1,8 +1,8 @@
 ---
 title: "HelloWorld"
 author: "Rupesh_Kumar_Rouniyar"
-date: "11/8/2020"
-output: pdf_document
+date: "11/9/2020"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
@@ -10,6 +10,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## This is a markdown file
+
+
 
 ```{r cars}
 summary(cars)
